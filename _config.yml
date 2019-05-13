@@ -1,11 +1,11 @@
 # Site settings
 author: Alexandra Clemm
-title: 
+title: Data Influencer
 header-img: img/home-bg.png
 email: lexxiclemm@gmail.com
 copyright_name: Alexandra Clemm
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Without data you are just another person with an opinion!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  alexandraclemm
